@@ -11,6 +11,12 @@ body {
     background-color: antiquewhite;
 }
 
+#profession {
+    color: darkgray;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Raleway', sans-serif;
+}
+
 p>em {
     color: brown;
 
