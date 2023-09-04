@@ -1,0 +1,19 @@
+#d1 {
+    font-size: xx-large;
+    border-color: red;
+    border-style: solid;
+    border-radius: 25px;
+
+}
+
+#d2 {
+    font-weight: bold;
+    font-style: italic;
+}
+
+#d3 {
+    background-color: black;
+    color: white;
+    font-family: monospace;
+    box-shadow: 30pt 10pt;
+}
